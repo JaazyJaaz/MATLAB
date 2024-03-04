@@ -1,4 +1,4 @@
-% Code written by John H. Felsch and Jessica Atkinson
+% Code written by Jessica Atkinson + one other (Harper!!!)
 % EE348 - L - 01
 % April 12, 2017
 % Lab 7: Fourier Transform
